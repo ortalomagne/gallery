@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gallery/static/css/main.2ec4d089.chunk.css",
-    "main.js": "/gallery/static/js/main.0322514f.chunk.js",
-    "main.js.map": "/gallery/static/js/main.0322514f.chunk.js.map",
-    "runtime~main.js": "/gallery/static/js/runtime~main.3e4d5bb6.js",
-    "runtime~main.js.map": "/gallery/static/js/runtime~main.3e4d5bb6.js.map",
-    "static/css/2.9522b9fe.chunk.css": "/gallery/static/css/2.9522b9fe.chunk.css",
-    "static/js/2.6099af6a.chunk.js": "/gallery/static/js/2.6099af6a.chunk.js",
-    "static/js/2.6099af6a.chunk.js.map": "/gallery/static/js/2.6099af6a.chunk.js.map",
-    "index.html": "/gallery/index.html",
-    "precache-manifest.3e894dad00b5ffbf9121f11291a9fade.js": "/gallery/precache-manifest.3e894dad00b5ffbf9121f11291a9fade.js",
-    "service-worker.js": "/gallery/service-worker.js",
-    "static/css/2.9522b9fe.chunk.css.map": "/gallery/static/css/2.9522b9fe.chunk.css.map",
-    "static/css/main.2ec4d089.chunk.css.map": "/gallery/static/css/main.2ec4d089.chunk.css.map",
-    "static/media/family.jpg": "/gallery/static/media/family.bfd03f81.jpg",
-    "static/media/intern.jpg": "/gallery/static/media/intern.59497e63.jpg",
-    "static/media/mtn.jpg": "/gallery/static/media/mtn.a41ad769.jpg"
+    "main.css": "/ortalomagne/static/css/main.2ec4d089.chunk.css",
+    "main.js": "/ortalomagne/static/js/main.4cf34b5b.chunk.js",
+    "main.js.map": "/ortalomagne/static/js/main.4cf34b5b.chunk.js.map",
+    "runtime~main.js": "/ortalomagne/static/js/runtime~main.1e965182.js",
+    "runtime~main.js.map": "/ortalomagne/static/js/runtime~main.1e965182.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/ortalomagne/static/css/2.9522b9fe.chunk.css",
+    "static/js/2.55fdb26c.chunk.js": "/ortalomagne/static/js/2.55fdb26c.chunk.js",
+    "static/js/2.55fdb26c.chunk.js.map": "/ortalomagne/static/js/2.55fdb26c.chunk.js.map",
+    "index.html": "/ortalomagne/index.html",
+    "precache-manifest.cc69a0befd40ed2047bb5a29c0f0ff3d.js": "/ortalomagne/precache-manifest.cc69a0befd40ed2047bb5a29c0f0ff3d.js",
+    "service-worker.js": "/ortalomagne/service-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/ortalomagne/static/css/2.9522b9fe.chunk.css.map",
+    "static/css/main.2ec4d089.chunk.css.map": "/ortalomagne/static/css/main.2ec4d089.chunk.css.map",
+    "static/media/family.jpg": "/ortalomagne/static/media/family.bfd03f81.jpg",
+    "static/media/intern.jpg": "/ortalomagne/static/media/intern.59497e63.jpg",
+    "static/media/mtn.jpg": "/ortalomagne/static/media/mtn.a41ad769.jpg"
   }
 }
